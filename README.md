@@ -5,6 +5,7 @@ Reusable agent skills for design and workflows.
 ## Available Skills
 
 - **[compound-design](./compound-design/SKILL.md)** — Extract design rules, taste decisions, anti-patterns, and component/token findings from a conversation and compound them into any design system's documentation (`AGENTS.md`, `design-system.md`, etc.).
+- **[review-design](./review-design/SKILL.md)** — Review UI code, components, pages, or diffs against a design system's accumulated rules, tokens, and anti-slop guidelines.
 
 ## Usage
 
